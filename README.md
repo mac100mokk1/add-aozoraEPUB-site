@@ -1,5 +1,5 @@
 # add-aozoraEPUB-site
-AozoraEPUB3に対応サイトを追加しようぷろじぇくと
+AozoraEPUB3に対応サイトを追加しようぷろじぇくと(非公式です)
 
 How to use
 ---
