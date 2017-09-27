@@ -26,7 +26,7 @@ SUB_UPDATE	.open-date
 ##一覧ページのタイトル (本文側に無ければこれを利用)
 SUBTITLE_LIST	.title
 
-#COVER_IMG	.novel_img img:0
+COVER_IMG	div.cover a img:-1
 
 ################################
 ###各話の抽出設定
