@@ -40,12 +40,6 @@ CONTENT_SUBTITLE	.episode-title:0
 ## 各話 本文
 CONTENT_ARTICLE	#novelBoby:0
 
-## 本文抽出開始 このタグの次から
-##CONTENT_ARTICLE_START	#maind .ss font-size:1
-
-## 本文抽出終了 このタグの前まで
-##CONTENT_ARTICLE_END	#maind .ss div:-2
-
 ##前書き
 #CONTENT_PREAMBLE	
 ## 補足
