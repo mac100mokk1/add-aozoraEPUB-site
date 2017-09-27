@@ -11,4 +11,4 @@ How to use
 
 リクエストや問題点の報告について
 ---
-リクエストや問題点の報告は[ここ](https://github.com/mac100mokk1/add-aozoraEPUB-site/issues)にしていただけると対応するかもしれません
+リクエストや問題点等の報告は[ここ](https://github.com/mac100mokk1/add-aozoraEPUB-site/issues)にしていただけると対応するかもしれません
